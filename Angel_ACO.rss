@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+            <email>angelcuberoolivares@gmail.com</email>
+            <lastBuildDate>Thur, 02 Feb 2023 15:26:00 +0100</lastBuildDate>
+            <language>es-ES</language>
+            <title>Articulos Sobre el periodico digital El Pais</title>
+            <link>https://github.com/SrPola</link>
+            <title>Este es el archivo feed de RSS</title>
+            
+        <item>
+            <category>
+                <title>Artículo 1</title>
+                <link>https://elpais.com/espana/comunidad-valenciana/2023-02-02/grito-de-socorro-de-los-apicultores-valencianos-para-evitar-su-extincion-ahogados-por-la-importacion-de-miel-de-china-y-argentina.html</link>
+                <pubDate>Jueves, 02 Feb 2023 16:01:00 GMT</pubDate>
+                <image>https://imagenes.elpais.com/resizer/FVynoStE_6rsRfgQeICVfJyg9y4=/980x0/filters:focal(2020x1450:2030x1460)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/JVN67SOYWRG4JNXZJV5GOQ2VTY.JPG</image>
+                <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
+                <description>A Carlos Muñoz, apicultor de la serranía de Valencia desde hace 30 años, las altas temperaturas de este verano le derritieron la cera de sus colmenas y perdió cerca del 40% de la producción. 
+                Una ruina. “Vale más la pena tirársela por encima que consumirla de lo barata que está”, añade Enric Simó, veterinario de la Agrupación en defensa de la sanidad apícola (Apieds). Dicho y hecho. Simó y otro 
+                colega, en cueros, salvo por unos calzones y, a pesar del frío, se embadurnan de miel y ponen cara a la protesta que este jueves han protagonizado los productores autóctonos a las puertas de las Cortes Valencianas 
+                por la falta de apoyo de la Administración valenciana. Ataviados con sus características caretas y esparciendo por un oloroso humo —con él calman a las abejas cuando extraen la miel de las colmenas— se han quejado 
+                de décadas de abandono oficial y de la pérdida de rentabilidad de la miel española a causa, sobre todo, de las importaciones de China y Argentina. “A un productor valenciano un kilo de miel le cuesta unos cinco euros, 
+                y los precios que se ofrecen están por debajo de los tres. Es insostenible”, exclama Simó.
+                </description>
+            </category>
+        </item>
+
+        <item>
+            <category>
+                <title>Artículo 2</title>
+                <link>https://elpais.com/mexico/2023-02-02/el-ine-impugna-ante-la-suprema-corte-el-plan-b-de-la-reforma-electoral-de-lopez-obrador.html</link>
+                <description></description>
+                <pubDate>Jueves, 02 Feb 2023 16:01:00 GMT</pubDate>
+                <image>https://i.ibb.co/N7Df4Ww/ar2.png</image>
+                <title>El INE impugna ante la Suprema Corte el “plan B” de la reforma electoral de López Obrador.</title>
+                <description>El Instituto Nacional Electoral (INE) ha presentado ante el Supremo mexicano una impugnación contra la primera parte del llamado “plan B” de la reforma electoral que fue impulsada desde Palacio Nacional 
+                y aprobada por la mayoría oficialista en el Congreso en diciembre. Se trata de una controversia constitucional en contra de las modificaciones a la Ley General de Comunicación Social y a la Ley General de Responsabilidades 
+                Administrativas. El árbitro electoral ha advertido de que los cambios legales merman su autonomía y capacidades para organizar los comicios de este año —en los que se renovarán las gubernaturas de dos Estados— y de 2024, 
+                cuando se llevarán a cabo unas elecciones presidenciales y legislativas sin precedentes. También ha señalado que las reformas favorecen que los funcionarios gubernamentales usen recursos públicos para promover su imagen 
+                (prohibido actualmente por la Constitución) y que ello desequilibra la contienda electoral.
+                </description>
+            </category>
+        </item>
+
+        <item>
+            <category>
+                <title>Artículo 3</title>
+                <link>https://elpais.com/espana/madrid/2023-02-02/ayuso-de-choque-en-choque-con-sus-rivales-escuche-con-educacion-senora-de-la-oposicion-eterna.html</link>
+                <pubDate>Jueves, 02 Feb 2023 16:01:00 GMT</pubDate>
+                <image>https://i.ibb.co/PZKrJgf/ar3.png</image>
+                <title>Mónica García a Ayuso, en un pleno lleno de críticas: “Dígame qué nos importa a los madrileños su confrontación personal”.</title>
+                <description>No hay mano tendida. No hay oferta de paz. En mayo hay elecciones municipales y autonómicas, y en el primer pleno de 2023, celebrado este jueves en la Asamblea de Madrid, es la guerra. Sorprendentemente, 
+                no son todos contra la presidenta, Isabel Díaz Ayuso (PP), la oposición fiscalizando al Gobierno, sino todo lo contrario: es Díaz Ayuso contra todos, el Gobierno que se defiende atacando. Porque allí donde Rocío Monasterio 
+                (Vox) le pone fácil contestar con una declaración de trámite, la presidenta regional critica a su única socia posible en la Cámara (”Así no se hace política”). Porque allí donde Juan Lobato (PSOE) ofrece sus disculpas por 
+                haberla acusado de causar el escrache que sufrió en la Universidad Complutense la semana pasada, no las acepta, y contraataca (”Mandan sicarios de su grupo (...) que les vote Txapote”). Y porque allí donde Mónica García 
+                (Más Madrid) critica que la líder conservadora emplee gran parte de su tiempo en criticar a Pedro Sánchez, Díaz Ayuso dobla la apuesta: ”¡Escúcheme con educación, como yo la he tenido a usted, señora de la oposición eterna!”. 
+                Quedan siete plenos antes de la disolución de la Cámara con motivo de las elecciones y la líder conservadora tiene una estrategia clara: ir al choque.
+                </description>
+            </category>
+        </item>
+
+        <item>
+            <category>
+                <title>Artículo 4</title>
+                <link>https://elpais.com/espana/2023-02-02/el-supremo-confirma-24-anos-y-medio-de-carcel-a-iratxe-sorzabal-una-de-las-etarras-que-anuncio-el-fin-de-la-violencia.html</link>
+                <pubDate>Jueves, 02 Feb 2023 16:01:00 GMT</pubDate>
+                <image>https://i.ibb.co/pWFpMMC/ar4.png</image>
+                <title>El Supremo confirma 24 años y medio de cárcel a Iratxe Sorzabal, una de las etarras que anunció el fin de la violencia.</title>
+                <description>El Tribunal Supremo ha confirmado la única condena (de 24 años y medio de cárcel) que pesaba sobre la etarra Iratxe Sorzabal Díaz, una de las tres personas que, 
+                el 20 de octubre de 2011, leyó el comunicado del cese definitivo de la violencia de la banda terrorista. La sentencia del alto tribunal confirma la pena por un delito de estragos 
+                decretada por la Audiencia Nacional por la colocación de dos artefactos explosivos en Gijón en noviembre de 1996, en el Palacio de Justicia y en la farmacia del marido de una exsecretaria 
+                de Estado de Asuntos Penitenciarios. El tribunal ha desestimado íntegramente el recurso de Sorzabal, que alegaba que, tras ser detenida, fue obligada por la Guardia Civil mediante torturas a declarar contra su voluntad dos veces.
+                </description>
+            </category>
+        </item>
+
+        <item>
+            <category>
+                <image>https://i.ibb.co/34Mvv90/imagentematica.png</image>
+            </category>
+        </item>
+    </channel>
+</rss>
