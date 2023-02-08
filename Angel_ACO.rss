@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <lastBuildDate>Thur, 02/Feb/2023 15:26:00 +0100</lastBuildDate>
-        <language>es-ES</language>
+        <description>Esto es una practica XDDD</description>
+        <pubDate>Wed, 02 Oct 2002 08:00:00 EST</pubDate>
+        <language>es-es</language>
         <title>Articulos Sobre el periodico digital El Pais</title>
-        <link>https://github.com/SrPola</link>
+        <link>https://srpola.github.io/rss</link>
         <item>
             <category>
-                <link>https://elpais.com/espana/comunidad-valenciana/2023-02-02/grito-de-socorro-de-los-apicultores-valencianos-para-evitar-su-extincion-ahogados-por-la-importacion-de-miel-de-china-y-argentina.html</link>
+                <link>https://srpola.github.io/rss</link>
                 <pubDate>Jueves, 02 Feb 2023 16:01:00 GMT</pubDate>
                 <image>https://imagenes.elpais.com/resizer/FVynoStE_6rsRfgQeICVfJyg9y4=/980x0/filters:focal(2020x1450:2030x1460)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/JVN67SOYWRG4JNXZJV5GOQ2VTY.JPG</image>
                 <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
@@ -23,7 +24,7 @@
 
         <item>
             <category>
-                <link>https://elpais.com/mexico/2023-02-02/el-ine-impugna-ante-la-suprema-corte-el-plan-b-de-la-reforma-electoral-de-lopez-obrador.html</link>
+                <link>https://srpola.github.io/rss</link>
                 <description></description>
                 <pubDate>Jueves, 02 Feb 2023 16:01:00 GMT</pubDate>
                 <image>https://i.ibb.co/N7Df4Ww/ar2.png</image>
@@ -39,7 +40,7 @@
 
         <item>
             <category>
-                <link>https://elpais.com/espana/madrid/2023-02-02/ayuso-de-choque-en-choque-con-sus-rivales-escuche-con-educacion-senora-de-la-oposicion-eterna.html</link>
+                <link>https://srpola.github.io/rss</link>
                 <pubDate>Jueves, 02 Feb 2023 16:01:00 GMT</pubDate>
                 <image>https://i.ibb.co/PZKrJgf/ar3.png</image>
                 <title>Mónica García a Ayuso, en un pleno lleno de críticas: “Dígame qué nos importa a los madrileños su confrontación personal”.</title>
@@ -55,7 +56,7 @@
 
         <item>
             <category>
-                <link>https://elpais.com/espana/2023-02-02/el-supremo-confirma-24-anos-y-medio-de-carcel-a-iratxe-sorzabal-una-de-las-etarras-que-anuncio-el-fin-de-la-violencia.html</link>
+                <link>https://srpola.github.io/rss</link>
                 <pubDate>Jueves, 02 Feb 2023 16:01:00 GMT</pubDate>
                 <image>https://i.ibb.co/pWFpMMC/ar4.png</image>
                 <title>El Supremo confirma 24 años y medio de cárcel a Iratxe Sorzabal, una de las etarras que anunció el fin de la violencia.</title>
