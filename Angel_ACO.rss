@@ -23,7 +23,7 @@
         <item>
             <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
             <link>https://srpola.github.io/rss/</link>
-            <guid>https://srpola.github.io/rss/guid</guid>
+            <guid>https://srpola.github.io/rss/guid1</guid>
             <description>Descripcion objeto 1</description>
             <author>angelcuberoolivares@gmail.com</author>
             <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
@@ -33,7 +33,7 @@
         <item>
             <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
             <link>https://srpola.github.io/rss/</link>
-            <guid>https://srpola.github.io/rss/guid</guid>
+            <guid>https://srpola.github.io/rss/guid2</guid>
             <description>Descripcion objeto 2</description>
             <author>angelcuberoolivares@gmail.com</author>
             <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
@@ -43,17 +43,7 @@
         <item>
             <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
             <link>https://srpola.github.io/rss/</link>
-            <guid>https://srpola.github.io/rss/guid</guid>
-            <description>Descripcion objeto 1</description>
-            <author>angelcuberoolivares@gmail.com</author>
-            <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
-            <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
-            <link>https://srpola.github.io/rss/</link>
-            <guid>https://srpola.github.io/rss/guid</guid>
+            <guid>https://srpola.github.io/rss/guid3</guid>
             <description>Descripcion objeto 3</description>
             <author>angelcuberoolivares@gmail.com</author>
             <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
@@ -63,7 +53,7 @@
         <item>
             <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
             <link>https://srpola.github.io/rss/</link>
-            <guid>https://srpola.github.io/rss/guid</guid>
+            <guid>https://srpola.github.io/rss/guid4</guid>
             <description>Descripcion objeto 4</description>
             <author>angelcuberoolivares@gmail.com</author>
             <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
