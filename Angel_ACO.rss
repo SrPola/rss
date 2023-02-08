@@ -7,28 +7,67 @@
         <title>Articulos Sobre el periodico digital El Pais</title>
         <link>https://srpola.github.io/rss/</link>
         <category>Noticias ramdom</category>
-        <skypDays>
+        <skipDays>
             <day>Saturday</day>
             <day>Sunday</day>
-        </skypDays>
-        <skypHours>
+        </skipDays>
+        <skipHours>
             <hour>0</hour>
             <hour>1</hour>
             <hour>2</hour>
             <hour>3</hour>
             <hour>4</hour>
             <hour>5</hour>
-        </skypHours>
+        </skipHours>
         
         <item>
             <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
             <link>https://srpola.github.io/rss/</link>
             <guid>https://srpola.github.io/rss/guid</guid>
             <description>Descripcion objeto 1</description>
-            <author>angelgelcuberoolivares@gmail.com</author>
-            <enclosure url:"https://imagenes.elpais.com/resizer/FVynoStE_6rsRfgQeICVfJyg9y4=/980x0/filters:focal(2020x1450:2030x1460)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/JVN67SOYWRG4JNXZJV5GOQ2VTY.JPG" length="123" type="image/jpeg" />
-            <pubDate>Jueves, 02 Feb 2023 16:01:00 GMT</pubDate>
+            <author>angelcuberoolivares@gmail.com</author>
+            <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
+            <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
         </item>
-
+        
+        <item>
+            <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
+            <link>https://srpola.github.io/rss/</link>
+            <guid>https://srpola.github.io/rss/guid</guid>
+            <description>Descripcion objeto 2</description>
+            <author>angelcuberoolivares@gmail.com</author>
+            <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
+            <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
+            <link>https://srpola.github.io/rss/</link>
+            <guid>https://srpola.github.io/rss/guid</guid>
+            <description>Descripcion objeto 1</description>
+            <author>angelcuberoolivares@gmail.com</author>
+            <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
+            <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
+            <link>https://srpola.github.io/rss/</link>
+            <guid>https://srpola.github.io/rss/guid</guid>
+            <description>Descripcion objeto 3</description>
+            <author>angelcuberoolivares@gmail.com</author>
+            <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
+            <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>Los productores de miel han pedido al Ministerio de Cultura que su actividad sea declarada patrimonio inmaterial de la humanidad para preservarlo.</title>
+            <link>https://srpola.github.io/rss/</link>
+            <guid>https://srpola.github.io/rss/guid</guid>
+            <description>Descripcion objeto 4</description>
+            <author>angelcuberoolivares@gmail.com</author>
+            <enclosure url="https://srpola.github.io/rss/si.jpg" length="123" type="image/jpg" />
+            <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
