@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <item>
-            <lastBuildDate>Thur, 02/Feb/2023 15:26:00 +0100</lastBuildDate>
-            <language>es-ES</language>
-            <title>Articulos Sobre el periodico digital El Pais</title>
-            <link>https://github.com/SrPola</link>
-        </item>
+        <lastBuildDate>Thur, 02/Feb/2023 15:26:00 +0100</lastBuildDate>
+        <language>es-ES</language>
+        <title>Articulos Sobre el periodico digital El Pais</title>
+        <link>https://github.com/SrPola</link>
         <item>
             <category>
                 <link>https://elpais.com/espana/comunidad-valenciana/2023-02-02/grito-de-socorro-de-los-apicultores-valencianos-para-evitar-su-extincion-ahogados-por-la-importacion-de-miel-de-china-y-argentina.html</link>
